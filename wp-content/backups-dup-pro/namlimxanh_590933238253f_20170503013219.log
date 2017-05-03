@@ -1,0 +1,78 @@
+********************************************************************************
+DUPLICATOR PRO PACKAGE-LOG: 2017-05-03 01:36:08
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	3.3.4
+WORDPRESS:	4.7.4
+PHP INFO:	5.6.30 | SAPI: apache2handler
+SERVER:		Apache/2.4.25 (Win32) OpenSSL/1.0.2j PHP/5.6.30 
+PHP TIME LIMIT: [7200] not allowed 
+PHP MAX MEMORY: 5000M (12800M default) 
+RUN TYPE: Manual
+MEMORY STACK: 30.5MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP 
+MYSQLDUMP:    Is Supported
+MYSQLTIMEOUT: 5000 
+TABLES: total:17 | filtered:0 | create:17 
+FILTERED: [] 
+RESPONSE: Ran from C:/xampp/mysql/bin/mysqldump.exe 
+SQL CREATED: namlimxanh_590933238253f_20170503013219_database.sql 
+SQL FILE SIZE: 767.77KB 
+SQL FILE TIME: 2017-05-03 01:36:09 
+SQL RUNTIME: 0.57 sec. 
+MEMORY STACK: 30.5MB 
+
+******************************************************************************** 
+ARCHIVE Type=ZIP Mode=ZipArchive 
+******************************************************************************** 
+ARCHIVE DIR:  C:/xampp/htdocs/ver4.nlxtn.net 
+ARCHIVE FILE: namlimxanh_590933238253f_20170503013219_archive.zip 
+FILTERS: *OFF* 
+DIRS:  not set 
+EXTS:  not set 
+FILES:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	294.53MB 
+STATS:	Dirs 3,384 | Files 23,839 | Total 27,223 
+SQL ADDED: namlimxanh_590933238253f_20170503013219_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 0
+    [filename] => 
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 198.45MB 
+ARCHIVE RUNTIME: 18.33 sec. 
+MEMORY STACK: 53.5MB 
+Installer files added to archive 
+
+******************************************************************************** 
+STORAGE: 
+******************************************************************************** 
+LOCAL: Default, C:/xampp/htdocs/ver4.nlxtn.net/wp-content/backups-dup-pro 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL FILE: 767.77KB 
+INSTALLER FILE: 14.47KB 
+ARCHIVE FILE: 199.37MB  
+EXPECTED FILE/DIRECTORY COUNT: 27,223 
+ACTUAL FILE/DIRECTORY COUNT: 27,223 
+ARCHIVE CONSISTENCY TEST: Pass 
+
+********************************************************************************
+RECORD ID:[8]
+TOTAL PROCESS RUNTIME: 390.55 sec.
+PEAK PHP MEMORY USED: 46MB
+DONE PROCESSING => namlimxanh 2017-05-03 01:42:38
+ 
